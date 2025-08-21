@@ -102,12 +102,5 @@ This **Bank Loans Dashboard** provides a powerful tool for analyzing the overall
 
 ---
 
-## 📬 Contact
 
-For inquiries, suggestions, or contributions, feel free to reach out:
-
-- **GitHub**: https://github.com/MohamedSamy57
-- **Email**: mohamedsamyomar55@gmail.com
-
----
 
